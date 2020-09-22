@@ -1,0 +1,7 @@
+#Nivel de capacidad del tanque 
+
+NT_Set 250
+
+#Nivel de capacidad de la cisterna
+
+NC_Set 250
